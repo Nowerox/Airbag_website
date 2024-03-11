@@ -82,7 +82,7 @@
                         <nav id="main-nav" class="main-nav">
                             <ul id="menu-primary-menu" class="menu">
                                 <li class="menu-item menu-item-has-children">
-                                    <a href="home">HOME</a>
+                                    <a href="homepage">HOME</a>
                                     
                                 </li>
                                 <li class="menu-item menu-item-has-children current-menu-item">
