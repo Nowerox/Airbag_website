@@ -129,11 +129,11 @@
                     <div id="breadcrumbs">
                         <div class="breadcrumbs-inner">
                             <div class="breadcrumb-trail">
-                                <a href="index.html" class="trail-begin">Home</a>
+                                <a href="homepage" class="trail-begin">Home</a>
                                 <span class="sep">|</span>
-                                <a href="page-about.html" class="trail-begin">About us </a>
+                                <a href="about" class="trail-begin">About us </a>
                                 <span class="sep">|</span>
-                                <span class="trail-end">About Airbag Construction</span>
+                                <span class="trail-end"> Airbag Construction Company</span>
                             </div>
                         </div>
                     </div>
@@ -259,7 +259,7 @@
                                                 </div><!-- /.content-list -->
                                                 <div class="themesflat-spacer clearfix" data-desktop="42" data-mobile="35" data-smobile="35"></div>
                                                 <div class="elm-button">
-                                                    <a href="#"  class="themesflat-button bg-white">GET IN TOUCH</a>
+                                                    <a href="contact_us"  class="themesflat-button bg-white">GET IN TOUCH</a>
                                                 </div>
                                             </div><!-- /.themesflat-content-box --> 
                                             <div class="themesflat-spacer clearfix" data-desktop="76" data-mobile="60" data-smobile="60"></div>
