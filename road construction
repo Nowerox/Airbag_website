@@ -145,6 +145,8 @@
         </div>
         <!-- End Featured Title -->
 
+        
+
         <!-- Main Content -->
         <div id="main-content" class="site-main clearfix">
             <div id="content-wrap" class="container">
@@ -157,15 +159,29 @@
                                 <div class="themesflat-content-box clearfix" data-margin="0 10px 0 43px" data-mobilemargin="0 15px 0 15px">
                                     <div class="themesflat-headings style-2 clearfix">
                                         <div class="sup-heading">SERVICES</div>
-                                        <h2 class="heading font-size-28 line-height-39">BUILDING CONSTRUCTION</h2>
+                                        <h2 class="heading font-size-28 line-height-30">BUILDING CONSTRUCTION</h2>
                                         <div class="sep has-width w80 accent-bg margin-top-20 clearfix"></div>                                          
                                         <p class="sub-heading margin-top-33 line-height-24">Our approach revolves around cultivating a deep understanding of project expectations, which we then adeptly manage by assembling a bespoke, proficient design team. Throughout every stage of building construction, we foster a culture of innovation, ensuring that creative solutions continually enrich the project's development.</p>
                                     </div>
                                 </div>                               
                                 <div class="themesflat-spacer clearfix" data-desktop="56" data-mobile="56" data-smobile="56"></div> 
                             </div>
-                            <div class="span_1_of_6 half-backgroud style-2">                        
+                            <div class="span_1_of_6 half-backgroud style-2">  
+                                <div class="post-media has-effect-icon offset-v-25 offset-h-24 data-effect-item clerafix">
+                                    <a href=""><img src="assets/img/news/building.jpg" alt="Image"></a>
+                                    <div class="post-calendar">                                                           
+                                    </div>
+                                    
+                                </div><!-- /.post-media -->                      
                             </div>
+
+
+
+
+
+
+
+                            
                         </div><!-- /.themesflat-row -->
                         <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="39" data-smobile="39"></div>     
                         <div class="flat-content-wrap style-2 clearfix">
