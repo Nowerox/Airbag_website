@@ -159,16 +159,16 @@
                                 <div class="themesflat-content-box clearfix" data-margin="0 10px 0 43px" data-mobilemargin="0 15px 0 15px">
                                     <div class="themesflat-headings style-2 clearfix">
                                         <div class="sup-heading">SERVICES</div>
-                                        <h2 class="heading font-size-28 line-height-30">ROAD CONSTRUCTION</h2>
+                                        <h2 class="heading font-size-28 line-height-30">BRIDGE AND FOUNDATION SUPPORT CONSTRUCTION</h2>
                                         <div class="sep has-width w80 accent-bg margin-top-20 clearfix"></div>                                          
-                                        <p class="sub-heading margin-top-33 line-height-24">Our methodology is centered on developing a thorough comprehension of project requirements, which we skillfully address by curating a tailored, expert construction team. At every phase of road construction, we nurture an environment of innovation, guaranteeing that inventive approaches consistently enhance the project's progression.</p>
+                                        <p class="sub-heading margin-top-33 line-height-24">Our approach focuses on deeply understanding the project's bridge and foundation support construction requirements. We meticulously assemble a specialized construction team tailored to the project's needs. Throughout every stage of bridge and foundation support construction, we foster an atmosphere of innovation, ensuring that creative strategies continually enhance the project's advancement.</p>
                                     </div>
                                 </div>                               
                                 <div class="themesflat-spacer clearfix" data-desktop="56" data-mobile="56" data-smobile="56"></div> 
                             </div>
                             <div class="span_1_of_6 half-backgroud style-2">  
                                 <div class="post-media has-effect-icon offset-v-25 offset-h-24 data-effect-item clerafix">
-                                    <a href=""><img src="assets/img/news/road.jpg" alt="Image"></a>
+                                    <a href=""><img src="assets/img/news/construction.jpg" alt="Image"></a>
                                     <div class="post-calendar">                                                           
                                     </div>
                                     
@@ -185,22 +185,22 @@
                         </div><!-- /.themesflat-row -->
                         <div class="themesflat-spacer clearfix" data-desktop="39" data-mobile="39" data-smobile="39"></div>     
                         <div class="flat-content-wrap style-2 clearfix">
-                            <h5 class="title">ROAD CONSTRUCTION</h5>
-                            <p>With an unwavering focus on road construction expertise, our company has experienced significant growth, establishing itself as a premier road construction firm in Nigeria. We proudly contribute to the nation's infrastructural advancement, holding a pivotal role in Nigeria's development landscape.</p>
+                            <h5 class="title">BRIDGE AND FOUNDATION SUPPORT CONSTRUCTION</h5>
+                            <p>The design of bridge structures embodies a blend of carefully integrated concepts, cutting-edge technologies, and lessons learned from previous experiences. Airbag has contributed to numerous projects encompassing a wide array of bridges and foundation support systems, showcasing our exceptional capabilities and accomplishments in the field of bridge and foundation support engineering.</p>
                         </div>
                         <div class="themesflat-spacer clearfix" data-desktop="37" data-mobile="35" data-smobile="35"></div>     
                         <div class="flat-content-wrap style-2 clearfix">
                             <div class="item">
                                 <div class="inner">
                                     <div class="themesflat-spacer clearfix" data-desktop="10" data-mobile="10" data-smobile="10"></div>  
-                                    <h5 class="title">ROAD CONSTRUCTION SERVICES INCLUDE:</h5>
+                                    <h5 class="title">BRIDGE AND FOUNDATION SUPPORT CONSTRUCTION:</h5>
                                     <p></p>
                                     <div class="themesflat-spacer clearfix" data-desktop="8" data-mobile="8" data-smobile="8"></div>     
                                     <div class="themesflat-list has-icon style-1 icon-left size-16 clearfix">
                                         <div class="inner">
                                             <span class="item">
                                                 <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                                <span class="text">Road Design and Planning</span>
+                                                <span class="text">Engineering Design</span>
                                             </span>
                                         </div>
                                     </div><!-- /.themeslat-list -->
@@ -208,7 +208,7 @@
                                         <div class="inner">
                                             <span class="item">
                                                 <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                                <span class="text">Earthworks and Grading</span>
+                                                <span class="text">Foundation Construction:</span>
                                             </span>
                                         </div>
                                     </div><!-- /.themeslat-list -->
@@ -216,7 +216,7 @@
                                         <div class="inner">
                                             <span class="item">
                                                 <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                                <span class="text">Drainage Systems</span>
+                                                <span class="text">Bridge Deck Installation:</span>
                                             </span>
                                         </div>
                                     </div><!-- /.themeslat-list -->
@@ -224,7 +224,7 @@
                                         <div class="inner">
                                             <span class="item">
                                                 <span class="icon"><i class="fa fa-check-circle"></i></span>
-                                                <span class="text">Road Maintenance and Rehabilitation</span>
+                                                <span class="text">Superstructure Construction</span>
                                             </span>
                                         </div>
                                     </div><!-- /.themeslat-list -->
@@ -234,7 +234,7 @@
                         </div>
                         <div class="themesflat-spacer clearfix" data-desktop="37" data-mobile="35" data-smobile="35"></div> 
                         <div class="flat-content-wrap style-2 clearfix">
-                            <h5 class="title no-letter-spacing">CONTACT US FOR BUILDING CONSTRUCTION TODAY</h5>
+                            <h5 class="title no-letter-spacing">CONTACT US TODAY</h5>
                             <div class="themesflat-spacer clearfix" data-desktop="27" data-mobile="27" data-smobile="27"></div> 
                             <div class="themesflat-tabs style-2 title-w170 clearfix">
                                 <ul class="tab-title clearfix ">
@@ -291,7 +291,7 @@
                                         <a href="road construction"><span class="text">Road Construction</span></a>
                                     </li>
                                     <li class="list-item">
-                                        <a href=""><span class="text">Bridge and Foundation Support Construction</span></a>
+                                        <a href="Bridge_construction"><span class="text">Bridge and Foundation Support Construction</span></a>
                                     </li>
                                     <li class="list-item">
                                         <a href=""><span class="text">Water Works</span></a>
