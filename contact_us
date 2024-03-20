@@ -318,10 +318,10 @@
                         <div class="widget widget_tags">
                             <h2 class="widget-title margin-bottom-30"><span>QUICK TAGS</span></h2>
                             <div class="tags-list">
-                                <a href="#">Building Construction</a>
-                                <a href="#"> Water works</a>
-                                <a href="#"> Drainage and Culvert</a>
-                                <a href="#"> Road Construction</a>
+                                <a href="building construction">Building Construction</a>
+                                <a href="water_works"> Water works</a>
+                                <a href="drinage construction"> Drainage and Culvert</a>
+                                <a href="road construction"> Road Construction</a>
                                 
                             </div>
                         </div>
